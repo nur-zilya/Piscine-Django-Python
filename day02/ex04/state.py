@@ -6,7 +6,7 @@ def find_by_val(argv):
     states = {
         "Oregon": "OR",
         "Alabama": "AL",
-        "New Jersey": "NJ",
+        "New Jersey": "NJ",#
         "Colorado": "CO"
     }
     capital_cities = {
